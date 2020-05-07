@@ -18,11 +18,11 @@ VS code 단축키와 스니펫 리스트입니다.
 | `Ctrl + W`   | 탭 닫기   |
 | `Ctrl + Tab` | 탭 간 이동 |
 | `Ctrl + P`   | 파일 찾기  |
-| **`Ctrl`+ 마크다운  단축키**  | 설명                  |
+| **`Ctrl` 마크다운  단축키**  | 설명                  |
 | `Ctrl + B` | **B**old 체          |
 | `Ctrl + I` | **I**talic 체        |
 | `Ctrl + M` | **M**ath 수식 ($$) 적용 |
-| ** `Ctrl` 화살표 단축키**             | 설명       |
+| **`Ctrl` 화살표 단축키**             | 설명       |
 | `Ctrl + Up/Down`    | 스크롤      |
 | `Ctrl + Left/Right` | 단어 단위 이동 |
 | **`Ctrl` 찾기 삼형제 단축키** | 설명          |
