@@ -5,6 +5,9 @@ VS code 단축키와 스니펫 리스트입니다.
 
 ## 단축키
 
+![](https://assaeunji.github.io/images/snippet-ctrl.png)
+![](https://assaeunji.github.io/images/snippet-shift.png)
+![](https://assaeunji.github.io/images/snippet-alt.png)
 
 | **`Ctrl` 기본 단축키**       | 설명     |
 | :----------- | :----- |
